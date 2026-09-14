@@ -1,0 +1,7 @@
+accelerate 
+transformers 
+torch 
+sentence-transformers 
+rich 
+numpy
+matplotlib
